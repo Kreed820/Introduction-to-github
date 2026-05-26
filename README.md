@@ -14,3 +14,7 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
+
+
+## About Me
+My name is Keisha Reed, and I am an engineering student at Wayne State University. I enjoy restoring emblems and learning about manufacturing and quality systems. I am currently learning GitHub and C++ to improve my programming and technical skills. 
